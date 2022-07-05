@@ -1,0 +1,86 @@
+.body {
+  background: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);
+  padding: 20px 100px;
+  display: block;
+  margin: 30px 80px;
+  display: block;
+  max-width: 80%;
+  border-radius: 4px;
+}
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  border: 1px solid #5c5470;
+  border-radius: 4px;
+  max-width: 400px;
+  color: #5c5470;
+  font-size: 28px;
+  padding: 20px 0;
+  margin: 0 auto 20px;
+  text-align: center;
+  font-weight: normal;
+}
+
+h2 {
+  color: #5c5470;
+  font-size: 20px;
+  text-align: center;
+  font-weight: normal;
+}
+
+hr {
+  max-width: 80%;
+}
+
+.Rachel-Hollis {
+  font-weight: bold;
+}
+p {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #8d4e61;
+  font-size: 15px;
+  text-align: center;
+  line-height: 30px;
+  text-indent: 5%;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #4e475f;
+  text-align: center;
+  display: block;
+  margin-bottom: 0;
+  transition: all 150ms ease-in-out;
+}
+
+a:hover {
+  opacity: 80%;
+  cursor: pointer;
+}
+
+button {
+  background: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+  font-size: 15px;
+  margin: 0 auto;
+  display: block;
+  padding: 10px 20px;
+  border: 1px solid #5c5470;
+  border-radius: 4px;
+  color: #443f52;
+  transition: all 150ms ease-in-out;
+  box-shadow: 1px 2px 5px 2px #9085ad;
+}
+
+button:hover {
+  opacity: 80%;
+  cursor: pointer;
+}
